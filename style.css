@@ -953,8 +953,8 @@ z-index:-9;
         background-image: url("img/banner_mens.png");
     }
     #page-header.women-header {
-      background-image: url("/Users/tanishamittal/Downloads/Assets/Frontend_Assets/banner_women.png");
+      background-image: url("img/banner_women.png");
   }
   #page-header.kids-header {
-    background-image: url("/Users/tanishamittal/Downloads/Assets/Frontend_Assets/banner_kids.png");
+    background-image: url("img/banner_kids.png");
 }
